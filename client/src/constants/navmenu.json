@@ -1,0 +1,126 @@
+[
+    {
+        "id": "search",
+        "mainTitle": "Search",
+        "subMenuList": [
+            {
+                "subTitle": "Business",
+                "slug": "/business-for-sale",
+                "subTitleDesc": "Business for sale, Seeking investment, Seeking loan, Asset sale, Franchises for sale."
+            },
+            {
+                "subTitle": "Investors",
+                "slug": "/investors",
+                "subTitleDesc": "Individual investors, Business buyers, Corporate investors, Franchise investment firms, Advisors, Bank."
+            },
+            {
+                "subTitle": "Franchises",
+                "slug": "/franchises",
+                "subTitleDesc": "Franchises, Dealerships, Distribution oppurtunities."
+            }
+        ]
+    },
+    {
+        "id": "howTo",
+        "mainTitle": "How To",
+        "subMenuList": [
+            {
+                "subTitle": "Sell a Business",
+                "slug": "/docs/primitives/overview/introduction",
+                "subTitleDesc": ""
+            },
+            {
+                "subTitle": "Getting started",
+                "slug": "/docs/primitives/overview/getting-started",
+                "subTitleDesc": "A quick tutorial to get you up and running with Radix Primitives."
+            },
+            {
+                "subTitle": "Styling",
+                "slug": "/docs/primitives/overview/getting-started",
+                "subTitleDesc": "Unstyled and compatible with any styling solution."
+            },
+            {
+                "subTitle": "Animation",
+                "slug": "/docs/primitives/overview/animation",
+                "subTitleDesc": "Use CSS keyframes or any animation library of your choice."
+            },
+            {
+                "subTitle": "Accessibility",
+                "slug": "/docs/primitives/overview/accessibility",
+                "subTitleDesc": "Tested in a range of browsers and assistive technologies."
+            },
+            {
+                "subTitle": "Releases",
+                "slug": "/docs/primitives/overview/releases",
+                "subTitleDesc": "Radix Primitives releases and their changelogs."
+            }
+        ]
+    },
+    {
+        "id": "otherResources",
+        "mainTitle": "Other Resources",
+        "subMenuList": [
+            {
+                "subTitle": "Introduction",
+                "slug": "/docs/primitives/overview/introduction",
+                "subTitleDesc": "Build high-quality, accessible design systems and web apps."
+            },
+            {
+                "subTitle": "Getting started",
+                "slug": "/docs/primitives/overview/getting-started",
+                "subTitleDesc": "A quick tutorial to get you up and running with Radix Primitives."
+            },
+            {
+                "subTitle": "Styling",
+                "slug": "/docs/primitives/overview/getting-started",
+                "subTitleDesc": "Unstyled and compatible with any styling solution."
+            }
+        ]
+    },
+    {
+        "id": "company",
+        "mainTitle": "Company",
+        "subMenuList": [
+            {
+                "subTitle": "Introduction",
+                "slug": "/docs/primitives/overview/introduction",
+                "subTitleDesc": "Build high-quality, accessible design systems and web apps."
+            },
+            {
+                "subTitle": "Getting started",
+                "slug": "/docs/primitives/overview/getting-started",
+                "subTitleDesc": "A quick tutorial to get you up and running with Radix Primitives."
+            },
+            {
+                "subTitle": "Introduction",
+                "slug": "/docs/primitives/overview/introduction",
+                "subTitleDesc": "Build high-quality, accessible design systems and web apps."
+            },
+            {
+                "subTitle": "Getting started",
+                "slug": "/docs/primitives/overview/getting-started",
+                "subTitleDesc": "A quick tutorial to get you up and running with Radix Primitives."
+            },
+            {
+                "subTitle": "Styling",
+                "slug": "/docs/primitives/overview/getting-started",
+                "subTitleDesc": "Unstyled and compatible with any styling solution."
+            },
+            {
+                "subTitle": "Animation",
+                "slug": "/docs/primitives/overview/animation",
+                "subTitleDesc": "Use CSS keyframes or any animation library of your choice."
+            },
+            {
+                "subTitle": "Accessibility",
+                "slug": "/docs/primitives/overview/accessibility",
+                "subTitleDesc": "Tested in a range of browsers and assistive technologies."
+            },
+            {
+                "subTitle": "Releases",
+                "slug": "/docs/primitives/overview/releases",
+                "subTitleDesc": "Radix Primitives releases and their changelogs."
+            }
+        ]
+    }
+]

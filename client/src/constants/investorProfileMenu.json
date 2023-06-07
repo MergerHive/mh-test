@@ -1,0 +1,60 @@
+{
+    "investorsType": [
+        {
+            "value": "individualInvestor",
+            "label": "Individual Investor"
+        },
+        {
+            "value": "corporateInvestor",
+            "label": "Corporate Investor"
+        },
+        {
+            "value": "accountingFirm",
+            "label": "Accounting Firm"
+        },
+        {
+            "value": "businessBroker",
+            "label": "Business Broker"
+        },
+        {
+            "value": "financialConsultant",
+            "label": "Financial Consultant"
+        },
+        {
+            "value": "investmentBank",
+            "label": "Investment Bank"
+        },
+        {
+            "value": "lawFirm",
+            "label": "Law Firm"
+        },
+        {
+            "value": "merchantBank",
+            "label": "Merchant Bank"
+        },
+        {
+            "value": "commercialRealEstateBroker",
+            "label": "Commercial Real Estate Broker"
+        },
+        {
+            "value": "ventureCapitalFirm",
+            "label": "Venture Capital Firm"
+        },
+        {
+            "value": "privateEquityFirm",
+            "label": "Private Equity Firm"
+        },
+        {
+            "value": "familyOffice",
+            "label": "Family Office"
+        },
+        {
+            "value": "hedgeFund",
+            "label": "Hedge Fund"
+        },
+        {
+            "value": "searchFund",
+            "label": "Search Fund"
+        }
+    ]
+}

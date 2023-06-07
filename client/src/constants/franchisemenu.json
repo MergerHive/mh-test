@@ -1,0 +1,24 @@
+{
+    "brandOfferings": [
+        {
+            "value": "franchiseOppurtunity",
+            "label": "Franchise Oppurtunity"
+        },
+        {
+            "value": "dealershipOppurtunity",
+            "label": "Dealership Oppurtunity"
+        },
+        {
+            "value": "resellerOppurtunity",
+            "label": "Reseller Oppurtunity"
+        },
+        {
+            "value": "distributorOppurtunity",
+            "label": "Distributor Oppurtunity"
+        },
+        {
+            "value": "salesPartnerOppurtunity",
+            "label": "Sales Partner Oppurtunity"
+        }
+    ]
+}

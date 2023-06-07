@@ -1,0 +1,3835 @@
+{
+    "name": "",
+    "children": [
+        {
+            "name": "Building, Construction and Maintenance",
+            "key": 1496,
+            "children": [
+                {
+                    "name": "Building Maintenance",
+                    "tooltip": "(Home Improvement; General Maintenance)",
+                    "key": 237,
+                    "children": [
+                        {
+                            "name": "Building Inspection",
+                            "key": 1437
+                        },
+                        {
+                            "name": "Carpentry",
+                            "key": 1455
+                        },
+                        {
+                            "name": "Electrical Services",
+                            "tooltip": "(Electrical)",
+                            "key": 1451
+                        },
+                        {
+                            "name": "Facility Management",
+                            "tooltip": "(Housekeeping Services)",
+                            "key": 221
+                        },
+                        {
+                            "name": "Fire Protection",
+                            "tooltip": "(Fire Fighting)",
+                            "key": 1548
+                        },
+                        {
+                            "name": "Flooring",
+                            "key": 1566
+                        },
+                        {
+                            "name": "Handyman Services",
+                            "key": 1582
+                        },
+                        {
+                            "name": "Interior Design & Architecture",
+                            "key": 484
+                        },
+                        {
+                            "name": "Landscaping",
+                            "tooltip": "(Yard Services;Gardening)",
+                            "key": 1423
+                        },
+                        {
+                            "name": "Maid Services",
+                            "key": 1213
+                        },
+                        {
+                            "name": "Manpower Security",
+                            "tooltip": "(Security; Security Agency)",
+                            "key": 233
+                        },
+                        {
+                            "name": "Manpower Supply",
+                            "tooltip": "(Labour Supply)",
+                            "key": 1591
+                        },
+                        {
+                            "name": "Mechanical Services",
+                            "key": 1452
+                        },
+                        {
+                            "name": "Painting",
+                            "key": 1528
+                        },
+                        {
+                            "name": "Pest Control",
+                            "key": 1570
+                        },
+                        {
+                            "name": "Plumbing",
+                            "key": 1456
+                        },
+                        {
+                            "name": "Roofing Contractor",
+                            "key": 1557
+                        },
+                        {
+                            "name": "Specialized Cleaning",
+                            "tooltip": "(Cleaning;)",
+                            "key": 1533
+                        }
+                    ]
+                },
+                {
+                    "name": "Commercial Real Estate",
+                    "tooltip": "(Commercial Properties)",
+                    "key": 1433,
+                    "children": [
+                        {
+                            "name": "Commercial Land",
+                            "tooltip": "(Commercial Plots)",
+                            "key": 1524
+                        },
+                        {
+                            "name": "Industrial Land",
+                            "tooltip": "(Industrial Plots; Sick Industries; Industries; Industrial Sheds)",
+                            "key": 1469
+                        },
+                        {
+                            "name": "Office Space",
+                            "key": 1468
+                        },
+                        {
+                            "name": "Rented Commercial Properties",
+                            "tooltip": "(Tenanted Properties; Preleased Properties)",
+                            "key": 1545
+                        },
+                        {
+                            "name": "Shopping Malls",
+                            "key": 1472
+                        },
+                        {
+                            "name": "Showrooms",
+                            "tooltip": "(Shops)",
+                            "key": 1471
+                        },
+                        {
+                            "name": "Warehouse Property",
+                            "key": 1470
+                        }
+                    ]
+                },
+                {
+                    "name": "Construction Materials",
+                    "tooltip": "(Building Materials)",
+                    "key": 114,
+                    "children": [
+                        {
+                            "name": "Asphalt Manufacturing",
+                            "tooltip": "(Tar Manufacturing)",
+                            "key": 113
+                        },
+                        {
+                            "name": "Brick Factories",
+                            "key": 1558
+                        },
+                        {
+                            "name": "Cement Factories",
+                            "tooltip": "(Cement)",
+                            "key": 109
+                        },
+                        {
+                            "name": "Construction Material Processing",
+                            "tooltip": "(Limestone Manufacturing)",
+                            "key": 110
+                        },
+                        {
+                            "name": "Construction Material Wholesale",
+                            "key": 111
+                        },
+                        {
+                            "name": "Granite & Marble",
+                            "tooltip": "(Granite Quarries; Granite Mining; Granite Factories)",
+                            "key": 112
+                        },
+                        {
+                            "name": "Hard Mineral Mining",
+                            "key": 1491
+                        },
+                        {
+                            "name": "Refractory Materials",
+                            "key": 1571
+                        },
+                        {
+                            "name": "Tile Stores",
+                            "tooltip": "(Ceramic Stores)",
+                            "key": 1643
+                        }
+                    ]
+                },
+                {
+                    "name": "Construction Supplies",
+                    "key": 370,
+                    "children": [
+                        {
+                            "name": "Bathroom Fixtures",
+                            "tooltip": "(Sanitaryware)",
+                            "key": 360
+                        },
+                        {
+                            "name": "Construction Supplies Wholesale",
+                            "tooltip": "(Construction Fixtures Wholesale;)",
+                            "key": 362
+                        },
+                        {
+                            "name": "Door Fixtures",
+                            "tooltip": "(Door Manufacturing)",
+                            "key": 363
+                        },
+                        {
+                            "name": "Kitchen Cabinets",
+                            "key": 365
+                        },
+                        {
+                            "name": "Luxury Construction Supplies",
+                            "key": 367
+                        },
+                        {
+                            "name": "Plumbing Fittings",
+                            "key": 368
+                        },
+                        {
+                            "name": "Roofing Supplies",
+                            "key": 369
+                        },
+                        {
+                            "name": "Tiles Manufacturing",
+                            "key": 364
+                        },
+                        {
+                            "name": "UPVC Windows",
+                            "tooltip": "(Window Fixtures;)",
+                            "key": 1630
+                        }
+                    ]
+                },
+                {
+                    "name": "Engineering, Procurement & Construction",
+                    "tooltip": "(EPC; Engineering)",
+                    "key": 203,
+                    "children": [
+                        {
+                            "name": "Electric Construction",
+                            "key": 193
+                        },
+                        {
+                            "name": "Gas Construction",
+                            "key": 194
+                        },
+                        {
+                            "name": "Industrial Automation",
+                            "tooltip": "(Industrial Control Systems;Factory Automation;)",
+                            "key": 1527
+                        },
+                        {
+                            "name": "Industrial Design",
+                            "key": 1321
+                        },
+                        {
+                            "name": "Industrial Plant Construction",
+                            "key": 196
+                        },
+                        {
+                            "name": "MEP Construction",
+                            "tooltip": "(Electromechanical; HVAC Contractors;)",
+                            "key": 177
+                        },
+                        {
+                            "name": "Railway Construction",
+                            "key": 199
+                        },
+                        {
+                            "name": "Road Construction",
+                            "tooltip": "(Highway Construction;Bridge Construction)",
+                            "key": 195
+                        },
+                        {
+                            "name": "Smart Grid Construction",
+                            "key": 200
+                        },
+                        {
+                            "name": "Telecommunication Construction",
+                            "tooltip": "(Telecom Towers)",
+                            "key": 201
+                        },
+                        {
+                            "name": "Water Construction",
+                            "tooltip": "(Sewer Construction;Drainage Construction)",
+                            "key": 202
+                        }
+                    ]
+                },
+                {
+                    "name": "Home Furnishings",
+                    "key": 384,
+                    "children": [
+                        {
+                            "name": "Antiques",
+                            "key": 378
+                        },
+                        {
+                            "name": "Blinds Manufacturing",
+                            "tooltip": "(Carpets and Curtains)",
+                            "key": 379
+                        },
+                        {
+                            "name": "Cutlery and Flatware",
+                            "key": 372
+                        },
+                        {
+                            "name": "Furniture",
+                            "tooltip": "(Children Furniture;Office Furniture;Office Furniture Wholesale)",
+                            "key": 380
+                        },
+                        {
+                            "name": "Home Furnishings Wholesale",
+                            "key": 381
+                        },
+                        {
+                            "name": "Kitchen Utensils",
+                            "key": 1561
+                        },
+                        {
+                            "name": "Luxury Furnishing",
+                            "key": 382
+                        },
+                        {
+                            "name": "Solid Surface",
+                            "key": 1562
+                        },
+                        {
+                            "name": "Tools and Housewares",
+                            "key": 376
+                        },
+                        {
+                            "name": "Wallpaper",
+                            "key": 383
+                        }
+                    ]
+                },
+                {
+                    "name": "Household Products",
+                    "key": 590,
+                    "children": [
+                        {
+                            "name": "Auto Cleaning Products",
+                            "key": 585
+                        },
+                        {
+                            "name": "Brooms, Brushes and Dustpans",
+                            "key": 586
+                        },
+                        {
+                            "name": "Cleaning Supplies",
+                            "key": 587
+                        },
+                        {
+                            "name": "Laundry Supplies",
+                            "key": 588
+                        },
+                        {
+                            "name": "Paper Tissue",
+                            "tooltip": "(Paper Tissue Manufacturing)",
+                            "key": 1615
+                        }
+                    ]
+                },
+                {
+                    "name": "Real Estate Agencies",
+                    "tooltip": "(Real Estate Brokerage Firms)",
+                    "key": 678,
+                    "children": []
+                },
+                {
+                    "name": "Real Estate Construction",
+                    "tooltip": "(Homebuilding; Construction)",
+                    "key": 359,
+                    "children": [
+                        {
+                            "name": "Contractors",
+                            "tooltip": "(Contracting Companies;Building Contractors)",
+                            "key": 190
+                        },
+                        {
+                            "name": "Land Developers",
+                            "key": 197
+                        },
+                        {
+                            "name": "Residential Real Estate Construction",
+                            "tooltip": "(Home Builders;Civil Construction;)",
+                            "key": 1431
+                        }
+                    ]
+                },
+                {
+                    "name": "Real Estate Rental",
+                    "key": 673,
+                    "children": []
+                },
+                {
+                    "name": "Residential Real Estate",
+                    "key": 1489,
+                    "children": []
+                }
+            ]
+        },
+        {
+            "name": "Business Services",
+            "key": 1518,
+            "children": [
+                {
+                    "name": "BPOs",
+                    "tooltip": "(KPO)",
+                    "key": 906,
+                    "children": [
+                        {
+                            "name": "Back Office Outsourcing",
+                            "key": 224
+                        },
+                        {
+                            "name": "Call Centers",
+                            "tooltip": "(Contact Centers)",
+                            "key": 220
+                        },
+                        {
+                            "name": "eGovernance",
+                            "key": 1578
+                        }
+                    ]
+                },
+                {
+                    "name": "Employment Services",
+                    "tooltip": "(RPO)",
+                    "key": 219,
+                    "children": [
+                        {
+                            "name": "Background Verification",
+                            "key": 1564
+                        },
+                        {
+                            "name": "HR Consulting",
+                            "tooltip": "(HR Advisory; HR)",
+                            "key": 216
+                        },
+                        {
+                            "name": "Recruitment Agencies",
+                            "tooltip": "(Job Consultancies; Placement Services)",
+                            "key": 215
+                        },
+                        {
+                            "name": "Staffing",
+                            "tooltip": "(Recruitment)",
+                            "key": 218
+                        }
+                    ]
+                },
+                {
+                    "name": "IT Services",
+                    "tooltip": "(IT;Technical Services;)",
+                    "key": 796,
+                    "children": [
+                        {
+                            "name": "Custom Application Development",
+                            "key": 792
+                        },
+                        {
+                            "name": "Digital Technology Services",
+                            "key": 1580
+                        },
+                        {
+                            "name": "IT Consultancy",
+                            "tooltip": "(System Integration;Technology Consulting)",
+                            "key": 794
+                        },
+                        {
+                            "name": "IT Infrastructure",
+                            "key": 1303
+                        },
+                        {
+                            "name": "Outsourced Produced Development",
+                            "tooltip": "(OSPD)",
+                            "key": 1567
+                        },
+                        {
+                            "name": "Software Testing Services",
+                            "key": 795
+                        },
+                        {
+                            "name": "Web & Mobile Development",
+                            "key": 811
+                        }
+                    ]
+                },
+                {
+                    "name": "Professional Services",
+                    "key": 1454,
+                    "children": [
+                        {
+                            "name": "Accounting Firms",
+                            "tooltip": "(Audit Firms; CA Firms; Accountancy Practices; Accounting Practices;)",
+                            "key": 921
+                        },
+                        {
+                            "name": "Business Research",
+                            "key": 1420
+                        },
+                        {
+                            "name": "Consulting",
+                            "tooltip": "(Management Consulting)",
+                            "key": 230
+                        },
+                        {
+                            "name": "Document Management",
+                            "key": 1495
+                        },
+                        {
+                            "name": "Image Editing Services",
+                            "key": 1577
+                        },
+                        {
+                            "name": "Immigration Consulting",
+                            "key": 1631
+                        },
+                        {
+                            "name": "Law Firms",
+                            "tooltip": "(Legal Practices;)",
+                            "key": 228
+                        },
+                        {
+                            "name": "Technical Documentation",
+                            "key": 1315
+                        },
+                        {
+                            "name": "Testing, Inspection & Certification",
+                            "tooltip": "(TIC;Auditing & Certification;QMS Auditing;Quality Certifications)",
+                            "key": 1592
+                        },
+                        {
+                            "name": "Translation and Interpretation",
+                            "key": 236
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Education",
+            "tooltip": "(Educational)",
+            "key": 1503,
+            "children": [
+                {
+                    "name": "Education Support",
+                    "key": 999,
+                    "children": [
+                        {
+                            "name": "Education Consultants",
+                            "tooltip": "(Student Services)",
+                            "key": 1526
+                        },
+                        {
+                            "name": "Libraries",
+                            "key": 1522
+                        }
+                    ]
+                },
+                {
+                    "name": "Schools & Colleges",
+                    "key": 1639,
+                    "children": [
+                        {
+                            "name": "Colleges",
+                            "tooltip": "(Private Universities)",
+                            "key": 1531
+                        },
+                        {
+                            "name": "Playschools",
+                            "tooltip": "(Preschools; Playhomes; Nursery Schools; Daycare Centers; Kindergartens; Childcare Centers;)",
+                            "key": 598
+                        },
+                        {
+                            "name": "Schools",
+                            "key": 226
+                        }
+                    ]
+                },
+                {
+                    "name": "Stationery",
+                    "key": 249,
+                    "children": []
+                },
+                {
+                    "name": "Training Institutes",
+                    "tooltip": "(Training Centres;)",
+                    "key": 937,
+                    "children": [
+                        {
+                            "name": "Animation",
+                            "tooltip": "(3D Multimedia)",
+                            "key": 1525
+                        },
+                        {
+                            "name": "Beauty Schools",
+                            "key": 1619
+                        },
+                        {
+                            "name": "Coaching Centers",
+                            "key": 1572
+                        },
+                        {
+                            "name": "Computer Training",
+                            "key": 793
+                        },
+                        {
+                            "name": "Dance Studios",
+                            "tooltip": "(Dance Schools;)",
+                            "key": 1573
+                        },
+                        {
+                            "name": "Fashion Institutes",
+                            "tooltip": "(Fashion Academies; Modelling Agencies)",
+                            "key": 1610
+                        },
+                        {
+                            "name": "Hobby Classes",
+                            "key": 936
+                        },
+                        {
+                            "name": "Language Centers",
+                            "tooltip": "(Language Schools;)",
+                            "key": 1609
+                        },
+                        {
+                            "name": "Sports Coaching",
+                            "key": 1532
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Energy",
+            "tooltip": "(Electric Utilities)",
+            "key": 1405,
+            "children": [
+                {
+                    "name": "Coal",
+                    "key": 3,
+                    "children": [
+                        {
+                            "name": "Charcoal",
+                            "key": 1621
+                        },
+                        {
+                            "name": "Coal Wholesale",
+                            "key": 2
+                        }
+                    ]
+                },
+                {
+                    "name": "Environmental Services",
+                    "key": 210,
+                    "children": [
+                        {
+                            "name": "Air Purification",
+                            "key": 208
+                        },
+                        {
+                            "name": "Environmental Biotechnology",
+                            "key": 206
+                        },
+                        {
+                            "name": "Environmental Consultancy",
+                            "key": 207
+                        },
+                        {
+                            "name": "Solar Projects",
+                            "key": 1536
+                        },
+                        {
+                            "name": "Waste Management",
+                            "tooltip": "(Recycling; Plastic Recycling; R2 Certified;)",
+                            "key": 209
+                        },
+                        {
+                            "name": "Waste to Energy Service",
+                            "key": 38
+                        }
+                    ]
+                },
+                {
+                    "name": "Integrated Oil and Gas",
+                    "key": 4,
+                    "children": []
+                },
+                {
+                    "name": "Multiline Utilities",
+                    "key": 837,
+                    "children": []
+                },
+                {
+                    "name": "Natural Gas Utilities",
+                    "key": 832,
+                    "children": [
+                        {
+                            "name": "Gas Distribution",
+                            "key": 831
+                        }
+                    ]
+                },
+                {
+                    "name": "Nonrenewable Power Plants",
+                    "key": 830,
+                    "children": []
+                },
+                {
+                    "name": "Oil & Gas Drilling",
+                    "key": 20,
+                    "children": [
+                        {
+                            "name": "Offshore Oil Drilling",
+                            "key": 17
+                        }
+                    ]
+                },
+                {
+                    "name": "Oil & Gas Exploration and Production",
+                    "key": 10,
+                    "children": [
+                        {
+                            "name": "Offshore Gas Production",
+                            "key": 5
+                        },
+                        {
+                            "name": "Offshore Oil Production",
+                            "key": 7
+                        },
+                        {
+                            "name": "Onshore Gas Production",
+                            "key": 6
+                        },
+                        {
+                            "name": "Onshore Oil Production",
+                            "key": 8
+                        },
+                        {
+                            "name": "Unconventional Oil & Gas Production",
+                            "key": 9
+                        }
+                    ]
+                },
+                {
+                    "name": "Oil & Gas Refining and Marketing",
+                    "key": 14,
+                    "children": [
+                        {
+                            "name": "LPG Gas Agencies",
+                            "key": 1523
+                        },
+                        {
+                            "name": "Petrol Bunks",
+                            "tooltip": "(Gas Stations;Fuel Stations;)",
+                            "key": 11
+                        },
+                        {
+                            "name": "Petroleum Product",
+                            "tooltip": "(Oil Product)",
+                            "key": 12
+                        },
+                        {
+                            "name": "Petroleum",
+                            "tooltip": "(Oil Refining;Petroleum Refining)",
+                            "key": 13
+                        }
+                    ]
+                },
+                {
+                    "name": "Oil & Gas Transportation",
+                    "key": 30,
+                    "children": [
+                        {
+                            "name": "Gas Pipeline",
+                            "key": 26
+                        },
+                        {
+                            "name": "LNG Transportation",
+                            "tooltip": "(LNG Storage)",
+                            "key": 25
+                        },
+                        {
+                            "name": "Oil & Gas Storage",
+                            "key": 27
+                        },
+                        {
+                            "name": "Oil Pipeline",
+                            "key": 28
+                        },
+                        {
+                            "name": "Sea-Borne Tankers",
+                            "key": 29
+                        }
+                    ]
+                },
+                {
+                    "name": "Oil",
+                    "tooltip": "(Oil Services and Equipment;)",
+                    "key": 24,
+                    "children": [
+                        {
+                            "name": "Oil Equipment",
+                            "key": 22
+                        },
+                        {
+                            "name": "Oil Services",
+                            "key": 23
+                        },
+                        {
+                            "name": "Oil Surveying and Mapping",
+                            "key": 21
+                        }
+                    ]
+                },
+                {
+                    "name": "Renewable Energy Equipment",
+                    "key": 41,
+                    "children": [
+                        {
+                            "name": "Biomass Energy Equipment",
+                            "key": 31
+                        },
+                        {
+                            "name": "Geothermal Equipment",
+                            "key": 32
+                        },
+                        {
+                            "name": "Hydropower Equipment",
+                            "key": 33
+                        },
+                        {
+                            "name": "Renewable Energy",
+                            "key": 35
+                        },
+                        {
+                            "name": "Solar PV Systems",
+                            "tooltip": "(Photovoltaic Solar)",
+                            "key": 34
+                        },
+                        {
+                            "name": "Solar Products",
+                            "key": 1535
+                        },
+                        {
+                            "name": "Stationary Fuel Cells",
+                            "key": 36
+                        },
+                        {
+                            "name": "Thermal Solar Equipment",
+                            "key": 37
+                        },
+                        {
+                            "name": "Wind Energy Equipment",
+                            "tooltip": "(Wind Turbine Manufacturing)",
+                            "key": 40
+                        }
+                    ]
+                },
+                {
+                    "name": "Renewable Fuels",
+                    "key": 47,
+                    "children": [
+                        {
+                            "name": "Biodiesel",
+                            "key": 42
+                        },
+                        {
+                            "name": "Biomass Fuels",
+                            "tooltip": "(Biogas Fuels)",
+                            "key": 43
+                        },
+                        {
+                            "name": "Ethanol Fuels",
+                            "key": 44
+                        },
+                        {
+                            "name": "Hydrogen Fuel",
+                            "key": 45
+                        },
+                        {
+                            "name": "Synthetic Fuels",
+                            "tooltip": "(Pyrolytic Fuels)",
+                            "key": 46
+                        }
+                    ]
+                },
+                {
+                    "name": "Renewable Power Plants",
+                    "tooltip": "(Renewable Utilities)",
+                    "key": 829,
+                    "children": [
+                        {
+                            "name": "Biomass Power Plants",
+                            "tooltip": "(Biomass Plants;)",
+                            "key": 1603
+                        },
+                        {
+                            "name": "Hydropower Plants",
+                            "tooltip": "(Hydroelectric Plants;Tidal Energy Plants;)",
+                            "key": 1602
+                        },
+                        {
+                            "name": "Solar Power Plants",
+                            "tooltip": "(Solar Farms; solar generation)",
+                            "key": 1601
+                        },
+                        {
+                            "name": "Wind Mills",
+                            "tooltip": "(Wind Power Plants;)",
+                            "key": 1600
+                        }
+                    ]
+                },
+                {
+                    "name": "Water Utilities",
+                    "key": 836,
+                    "children": [
+                        {
+                            "name": "Irrigation",
+                            "key": 835
+                        },
+                        {
+                            "name": "Steam Supply",
+                            "tooltip": "(Air-Conditioning Supply; Steam Trap)",
+                            "key": 834
+                        },
+                        {
+                            "name": "Water Purifiers",
+                            "tooltip": "(Water Filters)",
+                            "key": 1588
+                        },
+                        {
+                            "name": "Water Treatment",
+                            "tooltip": "(Sewage Treatment;Waste Water Treatment)",
+                            "key": 833
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Finance",
+            "tooltip": "(Financials)",
+            "key": 1410,
+            "children": [
+                {
+                    "name": "Banks",
+                    "key": 621,
+                    "children": [
+                        {
+                            "name": "ATMs",
+                            "key": 1560
+                        }
+                    ]
+                },
+                {
+                    "name": "Consumer Lending",
+                    "key": 627,
+                    "children": [
+                        {
+                            "name": "Consumer Leasing",
+                            "key": 623
+                        },
+                        {
+                            "name": "Credit Unions",
+                            "key": 624
+                        },
+                        {
+                            "name": "Microfinance",
+                            "key": 625
+                        },
+                        {
+                            "name": "NBFC",
+                            "key": 1544
+                        },
+                        {
+                            "name": "Personal Loans",
+                            "tooltip": "(Car Loans)",
+                            "key": 626
+                        }
+                    ]
+                },
+                {
+                    "name": "Corporate Financial Services",
+                    "key": 1427,
+                    "children": [
+                        {
+                            "name": "Commercial Leasing",
+                            "key": 628
+                        },
+                        {
+                            "name": "Commercial Loans",
+                            "key": 629
+                        },
+                        {
+                            "name": "Factoring",
+                            "key": 630
+                        },
+                        {
+                            "name": "Import / Export Banks",
+                            "key": 631
+                        }
+                    ]
+                },
+                {
+                    "name": "Financial Distributors",
+                    "key": 1574,
+                    "children": [
+                        {
+                            "name": "Debt Collection Agencies",
+                            "tooltip": "(Debt Recovery Agencies)",
+                            "key": 1575
+                        },
+                        {
+                            "name": "Insurance Agencies",
+                            "key": 1551
+                        },
+                        {
+                            "name": "Mutual Fund Agents",
+                            "key": 1576
+                        },
+                        {
+                            "name": "Payment Services",
+                            "key": 235
+                        }
+                    ]
+                },
+                {
+                    "name": "Financial Market Operators",
+                    "key": 652,
+                    "children": [
+                        {
+                            "name": "Stock Broking",
+                            "tooltip": "(Stock Trading)",
+                            "key": 634
+                        }
+                    ]
+                },
+                {
+                    "name": "Fund Operators",
+                    "key": 647,
+                    "children": [
+                        {
+                            "name": "Asset Management",
+                            "tooltip": "(Investment Management)",
+                            "key": 642
+                        },
+                        {
+                            "name": "Private Equity",
+                            "key": 644
+                        },
+                        {
+                            "name": "Venture Capital",
+                            "key": 645
+                        },
+                        {
+                            "name": "Wealth Management",
+                            "key": 646
+                        }
+                    ]
+                },
+                {
+                    "name": "Investment Banks",
+                    "key": 639,
+                    "children": [
+                        {
+                            "name": "M&A Advisory",
+                            "tooltip": "(Business Brokers)",
+                            "key": 636
+                        }
+                    ]
+                },
+                {
+                    "name": "Life & Health Insurance",
+                    "key": 665,
+                    "children": [
+                        {
+                            "name": "Health Insurance",
+                            "key": 663
+                        },
+                        {
+                            "name": "Life Insurance",
+                            "key": 664
+                        }
+                    ]
+                },
+                {
+                    "name": "Property & Casualty Insurance",
+                    "key": 662,
+                    "children": [
+                        {
+                            "name": "Auto Insurance",
+                            "key": 659
+                        }
+                    ]
+                },
+                {
+                    "name": "Shell Companies",
+                    "tooltip": "(Public Shells;OTC Shell Companies;Shelf Companies;Shelf Corporations;Clean Shell Companies;Listed Shell Companies; Offshore Companies; Onshore Companies; OTC Market Companies; Bankrupt; Closed; Distressed; Pvt Ltd; Limited Liability;)",
+                    "key": 1447,
+                    "children": [
+                        {
+                            "name": "Holding Companies",
+                            "key": 1612
+                        },
+                        {
+                            "name": "Nonprofit Organisations",
+                            "tooltip": "(NGOs;NFPs;)",
+                            "key": 1587
+                        },
+                        {
+                            "name": "Trade Licenses",
+                            "tooltip": "(Business Licenses)",
+                            "key": 1599
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Food & Beverage",
+            "tooltip": "(F&B;Food;)",
+            "key": 1500,
+            "children": [
+                {
+                    "name": "Agriculture",
+                    "key": 556,
+                    "children": [
+                        {
+                            "name": "Agriculture Consulting",
+                            "key": 538
+                        },
+                        {
+                            "name": "Agriculture Support",
+                            "key": 539
+                        },
+                        {
+                            "name": "Agriculture Wholesale",
+                            "tooltip": "(Agri Wholesale; Agriculture Export; Agri Export)",
+                            "key": 547
+                        },
+                        {
+                            "name": "Animal Breeding",
+                            "key": 540
+                        },
+                        {
+                            "name": "Animal Feed",
+                            "key": 541
+                        },
+                        {
+                            "name": "Aquaculture",
+                            "tooltip": "(Marine)",
+                            "key": 542
+                        },
+                        {
+                            "name": "Coffee Estates",
+                            "tooltip": "(Tea Estates;Cocoa Farms)",
+                            "key": 544
+                        },
+                        {
+                            "name": "Commercial Nurseries",
+                            "key": 546
+                        },
+                        {
+                            "name": "Dairy Farms",
+                            "tooltip": "(Cow Farms; Cattle Farms; Animal Farms; Buffalo Farms)",
+                            "key": 1542
+                        },
+                        {
+                            "name": "Fishing",
+                            "key": 545
+                        },
+                        {
+                            "name": "Grain Farms",
+                            "tooltip": "(Farms)",
+                            "key": 549
+                        },
+                        {
+                            "name": "Orchards",
+                            "key": 1634
+                        },
+                        {
+                            "name": "Organic Farming",
+                            "key": 551
+                        },
+                        {
+                            "name": "Poultry",
+                            "key": 552
+                        },
+                        {
+                            "name": "Ranches",
+                            "key": 553
+                        },
+                        {
+                            "name": "Sugarcane Farms",
+                            "key": 554
+                        },
+                        {
+                            "name": "Vegetable Farms",
+                            "tooltip": "(Fruit Farms;)",
+                            "key": 555
+                        }
+                    ]
+                },
+                {
+                    "name": "Alcoholic Beverages",
+                    "key": 531,
+                    "children": [
+                        {
+                            "name": "Breweries",
+                            "tooltip": "(Craft Breweries;Micro Breweries)",
+                            "key": 527
+                        },
+                        {
+                            "name": "Distilleries",
+                            "tooltip": "(Whiskey Distilleries; Cognac Distilleries; Vodka Distilleries; Grain Distillers; Malt Distillers; Tequila Distilleries; Whisky Distilleries; Gin Distilleries; Brandy Distilleries)",
+                            "key": 528
+                        },
+                        {
+                            "name": "Malt Producers",
+                            "key": 529
+                        },
+                        {
+                            "name": "Wineries",
+                            "tooltip": "(Vineyards)",
+                            "key": 530
+                        }
+                    ]
+                },
+                {
+                    "name": "Food Processing",
+                    "tooltip": "(Food Manufacturing)",
+                    "key": 557,
+                    "children": [
+                        {
+                            "name": "Baby Food",
+                            "key": 559
+                        },
+                        {
+                            "name": "Bakery Products",
+                            "tooltip": "(Bread Manufacturing)",
+                            "key": 560
+                        },
+                        {
+                            "name": "Biscuit Manufacturing",
+                            "tooltip": "(Cookie Manufacturing)",
+                            "key": 564
+                        },
+                        {
+                            "name": "Breakfast Cereal Manufacturing",
+                            "key": 561
+                        },
+                        {
+                            "name": "Chocolate and Confectionery",
+                            "key": 562
+                        },
+                        {
+                            "name": "Coffee and Tea",
+                            "key": 563
+                        },
+                        {
+                            "name": "Dairy Products",
+                            "tooltip": "(Milk Products;Milk Processing;Cheese Manufacturing;)",
+                            "key": 565
+                        },
+                        {
+                            "name": "Edible Oil Refineries",
+                            "tooltip": "(Vegetable Oil Business; Cooking Oil Refineries; Solvent Extraction Business; Palm Oil Companies;)",
+                            "key": 576
+                        },
+                        {
+                            "name": "Flour Mills",
+                            "key": 566
+                        },
+                        {
+                            "name": "Food Ingredients",
+                            "key": 567
+                        },
+                        {
+                            "name": "Frozen Food",
+                            "tooltip": "(Chilled Food)",
+                            "key": 568
+                        },
+                        {
+                            "name": "Halal Slaughterhouses",
+                            "key": 570
+                        },
+                        {
+                            "name": "Honey Processing",
+                            "key": 1594
+                        },
+                        {
+                            "name": "Hummus Manufacturing",
+                            "tooltip": "(Hummus)",
+                            "key": 1625
+                        },
+                        {
+                            "name": "Nutrition Food",
+                            "key": 575
+                        },
+                        {
+                            "name": "Pet Food",
+                            "key": 571
+                        },
+                        {
+                            "name": "Plant-based Protein Manufacturers",
+                            "tooltip": "(Vegan Meat Manufacturers; Vegan Manufacturers;)",
+                            "key": 1628
+                        },
+                        {
+                            "name": "Ready-Made Meals",
+                            "key": 572
+                        },
+                        {
+                            "name": "Rice Mills",
+                            "key": 1632
+                        },
+                        {
+                            "name": "Seafood Processing",
+                            "key": 573
+                        },
+                        {
+                            "name": "Slaughterhouses",
+                            "key": 558
+                        },
+                        {
+                            "name": "Snack Manufacturing",
+                            "key": 574
+                        },
+                        {
+                            "name": "Spices",
+                            "key": 1319
+                        },
+                        {
+                            "name": "Sugar Factories",
+                            "tooltip": "(Sweetener Manufacturing Business)",
+                            "key": 577
+                        },
+                        {
+                            "name": "Vegetable Processing",
+                            "tooltip": "(Fruit Processing)",
+                            "key": 569
+                        }
+                    ]
+                },
+                {
+                    "name": "Non-Alcoholic Beverages",
+                    "key": 536,
+                    "children": [
+                        {
+                            "name": "Bottled Water",
+                            "tooltip": "(Mineral Water; Packaged Water; RO Water; Bottling; Spring Water)",
+                            "key": 532
+                        },
+                        {
+                            "name": "Energy Drinks",
+                            "key": 534
+                        },
+                        {
+                            "name": "Fruit Drinks",
+                            "key": 535
+                        },
+                        {
+                            "name": "Ice Factories",
+                            "key": 1534
+                        },
+                        {
+                            "name": "Soft Drinks",
+                            "key": 533
+                        }
+                    ]
+                },
+                {
+                    "name": "Restaurants and Bars",
+                    "key": 413,
+                    "children": [
+                        {
+                            "name": "Bakeries",
+                            "tooltip": "(Bagel Shops;Cake Shops)",
+                            "key": 1457
+                        },
+                        {
+                            "name": "Bars",
+                            "tooltip": "(Pubs; Taverns; Beach Bars; Sports Bars; Bar Licenses;)",
+                            "key": 411
+                        },
+                        {
+                            "name": "Cafes",
+                            "tooltip": "(Coffee Shops; Tea Rooms; Cafeterias; Burger Joints)",
+                            "key": 408
+                        },
+                        {
+                            "name": "Catering",
+                            "key": 1450
+                        },
+                        {
+                            "name": "Cloud Kitchens",
+                            "key": 1596
+                        },
+                        {
+                            "name": "Delicatessens",
+                            "key": 1443
+                        },
+                        {
+                            "name": "Fast Food Restaurants",
+                            "tooltip": "(QSRs)",
+                            "key": 412
+                        },
+                        {
+                            "name": "Food Carts",
+                            "tooltip": "(Food Trucks;)",
+                            "key": 410
+                        },
+                        {
+                            "name": "Food Delivery",
+                            "key": 1552
+                        },
+                        {
+                            "name": "Ice Cream Parlors",
+                            "tooltip": "(Juice Shops; Smoothie Bars; Frozen Yogurt Shops; Ice Cream Stores)",
+                            "key": 1459
+                        },
+                        {
+                            "name": "Juice & Snack Shops",
+                            "key": 1460
+                        },
+                        {
+                            "name": "Nightclubs",
+                            "tooltip": "(Discotheques; Discobars; Clubhouses; Discos; Private Bars;)",
+                            "key": 1446
+                        },
+                        {
+                            "name": "Restaurants",
+                            "tooltip": "(Fine Dine Restaurants;Casual Restaurants)",
+                            "key": 409
+                        },
+                        {
+                            "name": "Shisha Cafes",
+                            "tooltip": "(Sheesha Bars; Hookah Bars;)",
+                            "key": 1608
+                        },
+                        {
+                            "name": "Sweet Shops",
+                            "tooltip": "(Sweet Stalls;Chocolate Shops)",
+                            "key": 1458
+                        },
+                        {
+                            "name": "Take Aways",
+                            "key": 1553
+                        },
+                        {
+                            "name": "Waffle Stores",
+                            "key": 1585
+                        }
+                    ]
+                },
+                {
+                    "name": "Tobacco",
+                    "key": 583,
+                    "children": [
+                        {
+                            "name": "Chewing Tobacco Products",
+                            "key": 579
+                        },
+                        {
+                            "name": "Cigarette",
+                            "tooltip": "(Cigar Manufacturing;)",
+                            "key": 580
+                        },
+                        {
+                            "name": "Tobacco Stemming and Redrying",
+                            "key": 582
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Healthcare",
+            "key": 1411,
+            "children": [
+                {
+                    "name": "Advanced Medical Technology",
+                    "tooltip": "(Advanced MedTech)",
+                    "key": 707,
+                    "children": [
+                        {
+                            "name": "Advanced Medical Equipment Wholesale",
+                            "key": 701
+                        },
+                        {
+                            "name": "Laser Equipment",
+                            "key": 702
+                        },
+                        {
+                            "name": "Medical Imaging Systems",
+                            "key": 704
+                        },
+                        {
+                            "name": "Medical Monitoring Systems",
+                            "key": 705
+                        },
+                        {
+                            "name": "Medical Testing Equipment",
+                            "key": 703
+                        }
+                    ]
+                },
+                {
+                    "name": "Beauty and Wellness",
+                    "key": 603,
+                    "children": [
+                        {
+                            "name": "Beauty Clinics",
+                            "tooltip": "(Slimming Clinics)",
+                            "key": 1569
+                        },
+                        {
+                            "name": "Beauty Salons",
+                            "tooltip": "(Beauty Parlors;Hair Salons;Barber Shops;Saloons;Ladies Salons;Gents Salons;)",
+                            "key": 1254
+                        },
+                        {
+                            "name": "Birth Control Products",
+                            "key": 591
+                        },
+                        {
+                            "name": "Cosmetics",
+                            "tooltip": "(Luxury Cosmetics; Cosmetics Manufacturing;)",
+                            "key": 592
+                        },
+                        {
+                            "name": "Gyms",
+                            "tooltip": "(Fitness Centers;)",
+                            "key": 424
+                        },
+                        {
+                            "name": "Hair Accessories",
+                            "key": 593
+                        },
+                        {
+                            "name": "Hygiene Products",
+                            "tooltip": "(Sanitary Products; Soaps & Shampoo; Bath Products; Brush Manufacturing;)",
+                            "key": 595
+                        },
+                        {
+                            "name": "Nail Salon",
+                            "key": 1259
+                        },
+                        {
+                            "name": "Perfumes",
+                            "key": 1607
+                        },
+                        {
+                            "name": "Spas",
+                            "tooltip": "(Massage Centers)",
+                            "key": 1260
+                        },
+                        {
+                            "name": "Tattoo Studios",
+                            "tooltip": "(Tattoo Parlours;)",
+                            "key": 1627
+                        },
+                        {
+                            "name": "Yoga Studios",
+                            "tooltip": "(Yoga Centers)",
+                            "key": 1637
+                        }
+                    ]
+                },
+                {
+                    "name": "Biotechnology",
+                    "tooltip": "(Agricultural Biotechnology; Biotech Facility; Biopharma;)",
+                    "key": 740,
+                    "children": [
+                        {
+                            "name": "Bio Diagnostics",
+                            "key": 737
+                        },
+                        {
+                            "name": "Bio Medical Devices",
+                            "key": 738
+                        },
+                        {
+                            "name": "Bio Therapeutic Drugs",
+                            "key": 739
+                        }
+                    ]
+                },
+                {
+                    "name": "Healthcare Services",
+                    "tooltip": "(Medical)",
+                    "key": 727,
+                    "children": [
+                        {
+                            "name": "Alternative Medicine Facilities",
+                            "tooltip": "(Herbal Clinics;Homeopathic Clinics;Chinese Medicine Clinics;Ayurvedic Clinics)",
+                            "key": 718
+                        },
+                        {
+                            "name": "Ambulance",
+                            "key": 719
+                        },
+                        {
+                            "name": "Clinics",
+                            "key": 720
+                        },
+                        {
+                            "name": "Dentist Clinics",
+                            "tooltip": "(Dental Practices; Dental Clinics; Dentist Offices;)",
+                            "key": 1541
+                        },
+                        {
+                            "name": "Diagnostic Labs",
+                            "tooltip": "(Pathology Business; Radiology Centers; Laboratories;)",
+                            "key": 723
+                        },
+                        {
+                            "name": "Fertility Centres",
+                            "tooltip": "(IVF Centres; Fertility Clinics;)",
+                            "key": 1624
+                        },
+                        {
+                            "name": "Home Healthcare",
+                            "key": 721
+                        },
+                        {
+                            "name": "Hospitals",
+                            "key": 722
+                        },
+                        {
+                            "name": "Medical Tourism",
+                            "key": 1593
+                        },
+                        {
+                            "name": "Nursing Homes",
+                            "tooltip": "(Residential Care Facilities; Assisted Living Homes; Care Homes)",
+                            "key": 724
+                        },
+                        {
+                            "name": "Physiotherapy Practices",
+                            "key": 1556
+                        },
+                        {
+                            "name": "Psychiatric Clinics",
+                            "tooltip": "(Mental Healthcare Clinics;Mental Health & Wellness Centers)",
+                            "key": 1644
+                        },
+                        {
+                            "name": "Telemedicine",
+                            "key": 725
+                        },
+                        {
+                            "name": "Veterinary Clinics",
+                            "tooltip": "(Veterinary Care Businesses)",
+                            "key": 726
+                        }
+                    ]
+                },
+                {
+                    "name": "Medical Supplies and Equipment",
+                    "key": 717,
+                    "children": [
+                        {
+                            "name": "Eye Glasses Manufacturing",
+                            "key": 710
+                        },
+                        {
+                            "name": "Medical Devices",
+                            "tooltip": "(Medical Equipment)",
+                            "key": 712
+                        },
+                        {
+                            "name": "Medical Equipment Wholesale",
+                            "key": 713
+                        },
+                        {
+                            "name": "Medical Implants",
+                            "key": 711
+                        },
+                        {
+                            "name": "Medical Prosthetics",
+                            "key": 714
+                        },
+                        {
+                            "name": "Medical Supplies",
+                            "tooltip": "(Disposable Syringe Manufacturing; Syringe Manufacturing; Medical Gloves Manufacturing; Medical Masks Manufacturing; Forceps Manufacturing; Surgical Knives Manufacturing; Bandage Manufacturing; Stethoscopes Manufacturing; X-ray Film Manufacturing; Dental Drills Manufacturing)",
+                            "key": 715
+                        },
+                        {
+                            "name": "Veterinary Medical Supplies",
+                            "key": 716
+                        }
+                    ]
+                },
+                {
+                    "name": "Pharmaceuticals",
+                    "key": 736,
+                    "children": [
+                        {
+                            "name": "Alternative Medicine",
+                            "tooltip": "(Herbal Medicine;Homeopathic Medicine;Ayurvedic Medicine)",
+                            "key": 730
+                        },
+                        {
+                            "name": "Biopharmaceuticals",
+                            "key": 731
+                        },
+                        {
+                            "name": "Diagnostic Substances Manufacturing",
+                            "key": 732
+                        },
+                        {
+                            "name": "Generic Pharmaceuticals",
+                            "key": 733
+                        },
+                        {
+                            "name": "Nutraceuticals",
+                            "key": 1318
+                        },
+                        {
+                            "name": "Pharma Marketing",
+                            "key": 1418
+                        },
+                        {
+                            "name": "Specialty Pharmaceuticals",
+                            "key": 734
+                        },
+                        {
+                            "name": "Veterinary Drugs",
+                            "key": 735
+                        }
+                    ]
+                },
+                {
+                    "name": "Pharmacies",
+                    "tooltip": "(Medical Agencies;Medical Shops;Medicine Shops)",
+                    "key": 608,
+                    "children": []
+                }
+            ]
+        },
+        {
+            "name": "Industrial",
+            "key": 1407,
+            "children": [
+                {
+                    "name": "Aerospace & Defense",
+                    "tooltip": "(Aerospace;Defense;)",
+                    "key": 145,
+                    "children": [
+                        {
+                            "name": "Aircraft Equipment Wholesale",
+                            "key": 136
+                        },
+                        {
+                            "name": "Arms and Ammunitions",
+                            "tooltip": "(Bullet Manufacturing; Arms Industry)",
+                            "key": 137
+                        },
+                        {
+                            "name": "Commercial Aircraft Manufacturing",
+                            "key": 138
+                        },
+                        {
+                            "name": "Military Accessories",
+                            "tooltip": "(Military Clothing)",
+                            "key": 140
+                        },
+                        {
+                            "name": "Military Vehicles Manufacturing",
+                            "key": 141
+                        }
+                    ]
+                },
+                {
+                    "name": "Agricultural Chemicals",
+                    "key": 62,
+                    "children": [
+                        {
+                            "name": "Agricultural Chemicals Wholesale",
+                            "tooltip": "(Fertilizers wholesale;Pesticides wholesale)",
+                            "key": 58
+                        },
+                        {
+                            "name": "Fertilizer",
+                            "tooltip": "(Organic Fertilizer)",
+                            "key": 59
+                        },
+                        {
+                            "name": "Pesticide",
+                            "key": 61
+                        },
+                        {
+                            "name": "Seaweed Products",
+                            "tooltip": "(Seaweed Manufacturing)",
+                            "key": 1629
+                        }
+                    ]
+                },
+                {
+                    "name": "Aluminium",
+                    "key": 100,
+                    "children": [
+                        {
+                            "name": "Aluminium Rolling",
+                            "key": 95
+                        },
+                        {
+                            "name": "Aluminium Smelting",
+                            "key": 99
+                        },
+                        {
+                            "name": "Aluminium Wholesalers",
+                            "key": 96
+                        },
+                        {
+                            "name": "Primary Aluminium Production",
+                            "key": 98
+                        }
+                    ]
+                },
+                {
+                    "name": "Auto Component",
+                    "key": 307,
+                    "children": [
+                        {
+                            "name": "Auto Electrical Parts",
+                            "key": 1529
+                        },
+                        {
+                            "name": "Automobile Parts Wholesale",
+                            "key": 300
+                        },
+                        {
+                            "name": "Automotive Accessories",
+                            "key": 301
+                        },
+                        {
+                            "name": "Automotive Batteries",
+                            "key": 302
+                        },
+                        {
+                            "name": "Automotive Body Parts",
+                            "key": 303
+                        },
+                        {
+                            "name": "Automotive Systems",
+                            "key": 304
+                        },
+                        {
+                            "name": "Engine and Powertrain Systems",
+                            "key": 305
+                        },
+                        {
+                            "name": "Motorcycle Parts",
+                            "key": 306
+                        }
+                    ]
+                },
+                {
+                    "name": "Automobile Manufacturing",
+                    "key": 299,
+                    "children": [
+                        {
+                            "name": "Automobile Wholesale",
+                            "key": 293
+                        },
+                        {
+                            "name": "Bicycle Manufacturing",
+                            "key": 392
+                        },
+                        {
+                            "name": "Car Manufacturing",
+                            "key": 294
+                        },
+                        {
+                            "name": "Electrical Vehicles",
+                            "key": 295
+                        },
+                        {
+                            "name": "Light Trucks",
+                            "key": 296
+                        },
+                        {
+                            "name": "Marine Equipment",
+                            "key": 1422
+                        },
+                        {
+                            "name": "Motorcycles and Scooters",
+                            "tooltip": "(Motorcycles; Scooters)",
+                            "key": 298
+                        },
+                        {
+                            "name": "Yachts and Boats",
+                            "tooltip": "(Yachts; Boats; Motorboats;)",
+                            "key": 396
+                        }
+                    ]
+                },
+                {
+                    "name": "Commodity Chemicals",
+                    "key": 57,
+                    "children": [
+                        {
+                            "name": "Coating",
+                            "key": 1611
+                        },
+                        {
+                            "name": "Commodity Chemicals Wholesale",
+                            "key": 51
+                        },
+                        {
+                            "name": "Industrial Gas",
+                            "key": 53
+                        },
+                        {
+                            "name": "Ink Manufacturers",
+                            "tooltip": "(Printing Ink Manufacturers;)",
+                            "key": 1618
+                        },
+                        {
+                            "name": "Paint Factories",
+                            "tooltip": "(Paint Manufacturers;)",
+                            "key": 54
+                        },
+                        {
+                            "name": "Petrochemicals",
+                            "key": 846
+                        },
+                        {
+                            "name": "Plastics",
+                            "key": 55
+                        },
+                        {
+                            "name": "Vinyl",
+                            "key": 847
+                        }
+                    ]
+                },
+                {
+                    "name": "Diversified Chemicals",
+                    "key": 71,
+                    "children": []
+                },
+                {
+                    "name": "Electrical Equipment",
+                    "key": 182,
+                    "children": [
+                        {
+                            "name": "Battery and UPS Manufacturing",
+                            "key": 172
+                        },
+                        {
+                            "name": "Electric Equipment Wholesale",
+                            "key": 173
+                        },
+                        {
+                            "name": "Electrical Component",
+                            "key": 174
+                        },
+                        {
+                            "name": "Electrical Measuring Instruments",
+                            "key": 175
+                        },
+                        {
+                            "name": "Electron Tubes and Insulators",
+                            "key": 176
+                        },
+                        {
+                            "name": "HVAC Equipment",
+                            "tooltip": "(AC Duct Manufacturing; Air-conditioning; Industrial Refrigeration;)",
+                            "key": 1623
+                        },
+                        {
+                            "name": "Lighting Fixtures",
+                            "tooltip": "(Lighting Equipment)",
+                            "key": 178
+                        },
+                        {
+                            "name": "Portable Motors and Generators",
+                            "key": 179
+                        },
+                        {
+                            "name": "Switchgear",
+                            "key": 180
+                        },
+                        {
+                            "name": "Wires and Cables",
+                            "key": 181
+                        }
+                    ]
+                },
+                {
+                    "name": "Forest Products",
+                    "key": 121,
+                    "children": [
+                        {
+                            "name": "Jute & Coir",
+                            "tooltip": "(Jute; Coir;)",
+                            "key": 1538
+                        },
+                        {
+                            "name": "Sawmills",
+                            "key": 117
+                        },
+                        {
+                            "name": "Timber Tract Operations",
+                            "key": 118
+                        },
+                        {
+                            "name": "Timber Trading",
+                            "tooltip": "(Wood Product Wholesale; Wood Trading)",
+                            "key": 119
+                        },
+                        {
+                            "name": "Tree Farms",
+                            "tooltip": "(Forest Nurseries;)",
+                            "key": 115
+                        },
+                        {
+                            "name": "Wood Products",
+                            "key": 120
+                        }
+                    ]
+                },
+                {
+                    "name": "Gold",
+                    "key": 81,
+                    "children": [
+                        {
+                            "name": "Gold Mining",
+                            "key": 79
+                        },
+                        {
+                            "name": "Gold Refining",
+                            "key": 80
+                        }
+                    ]
+                },
+                {
+                    "name": "Heavy Electrical Equipment",
+                    "key": 189,
+                    "children": [
+                        {
+                            "name": "Conveyor",
+                            "tooltip": "(Conveyor Equipment; Conveyor Belt;)",
+                            "key": 1614
+                        },
+                        {
+                            "name": "Elevator",
+                            "tooltip": "(Elevator Equipment;Lift & Elevator;Lift Equipment;Escalator;)",
+                            "key": 183
+                        },
+                        {
+                            "name": "Heavy Motors and Generators",
+                            "key": 184
+                        },
+                        {
+                            "name": "Industrial Electrical Switchgear",
+                            "key": 185
+                        },
+                        {
+                            "name": "Smart Grid Equipment",
+                            "key": 187
+                        },
+                        {
+                            "name": "Transformer Manufacturing",
+                            "key": 875
+                        },
+                        {
+                            "name": "Turbine Manufacturing",
+                            "key": 188
+                        }
+                    ]
+                },
+                {
+                    "name": "Heavy Machinery",
+                    "key": 168,
+                    "children": [
+                        {
+                            "name": "Agricultural Machinery",
+                            "tooltip": "(Agricultural Equipment)",
+                            "key": 161
+                        },
+                        {
+                            "name": "Cleaning Machinery",
+                            "key": 1530
+                        },
+                        {
+                            "name": "Construction Machinery",
+                            "tooltip": "(Bulldozers;Cranes)",
+                            "key": 163
+                        },
+                        {
+                            "name": "Heavy Machinery Wholesale",
+                            "key": 165
+                        }
+                    ]
+                },
+                {
+                    "name": "Industrial Machinery",
+                    "key": 150,
+                    "children": [
+                        {
+                            "name": "Air Compressors",
+                            "tooltip": "(Gas Compressors)",
+                            "key": 146
+                        },
+                        {
+                            "name": "Fluid Power Products",
+                            "tooltip": "(Pneumatic Cylinder; Fluid Actuator)",
+                            "key": 149
+                        },
+                        {
+                            "name": "Furnace Manufacturing",
+                            "key": 154
+                        },
+                        {
+                            "name": "Industrial Filters",
+                            "key": 1581
+                        },
+                        {
+                            "name": "Industrial Machinery Wholesale",
+                            "tooltip": "(Industrial Equipment Wholesale)",
+                            "key": 151
+                        },
+                        {
+                            "name": "Industrial Measuring Equipment",
+                            "key": 158
+                        },
+                        {
+                            "name": "Machine Tools",
+                            "key": 156
+                        },
+                        {
+                            "name": "Pipes & Valves",
+                            "tooltip": "(Valves Manufacturing)",
+                            "key": 155
+                        },
+                        {
+                            "name": "Pumps",
+                            "tooltip": "(Pumping Equipment)",
+                            "key": 157
+                        },
+                        {
+                            "name": "Rebar Coupler",
+                            "key": 1546
+                        },
+                        {
+                            "name": "Rolling Mill Machinery",
+                            "key": 92
+                        },
+                        {
+                            "name": "Vending Machine Manufacturing",
+                            "key": 147
+                        },
+                        {
+                            "name": "Welding Equipment",
+                            "tooltip": "(Soldering Equipment)",
+                            "key": 159
+                        }
+                    ]
+                },
+                {
+                    "name": "Machine Shops",
+                    "tooltip": "(CNC Machine Shops)",
+                    "key": 160,
+                    "children": [
+                        {
+                            "name": "Ball Bearings",
+                            "tooltip": "(Roller Bearings)",
+                            "key": 148
+                        },
+                        {
+                            "name": "Die Casting",
+                            "key": 1537
+                        },
+                        {
+                            "name": "Fabricated Metal Products",
+                            "tooltip": "(Metal Products)",
+                            "key": 153
+                        },
+                        {
+                            "name": "Industrial Moulds",
+                            "key": 152
+                        },
+                        {
+                            "name": "Injection Moulding",
+                            "key": 1540
+                        },
+                        {
+                            "name": "Metal Service Centers",
+                            "key": 91
+                        },
+                        {
+                            "name": "Powder Coating Plants",
+                            "key": 1490
+                        },
+                        {
+                            "name": "Precision Components",
+                            "tooltip": "(CNC Inserts Manufacturing; Component Manufacturing)",
+                            "key": 1313
+                        },
+                        {
+                            "name": "Rolling Mills",
+                            "tooltip": "(Sheet Metal Business)",
+                            "key": 1487
+                        }
+                    ]
+                },
+                {
+                    "name": "Mining Support",
+                    "tooltip": "(Mining Support Activites)",
+                    "key": 85,
+                    "children": [
+                        {
+                            "name": "Geophysical Service",
+                            "key": 82
+                        },
+                        {
+                            "name": "Mining Machinery",
+                            "key": 83
+                        }
+                    ]
+                },
+                {
+                    "name": "Packaging",
+                    "key": 133,
+                    "children": [
+                        {
+                            "name": "Glass",
+                            "tooltip": "(Mirror;Glass Packaging)",
+                            "key": 128
+                        },
+                        {
+                            "name": "Metal Container",
+                            "tooltip": "(Metal Packaging)",
+                            "key": 129
+                        },
+                        {
+                            "name": "Packaging Material Wholesale",
+                            "key": 127
+                        },
+                        {
+                            "name": "Paper Packaging",
+                            "key": 135
+                        },
+                        {
+                            "name": "Plastic Packaging",
+                            "tooltip": "(Plastic Container)",
+                            "key": 130
+                        },
+                        {
+                            "name": "Textile Packaging",
+                            "key": 131
+                        },
+                        {
+                            "name": "Wood Packaging",
+                            "tooltip": "(Wood Container)",
+                            "key": 132
+                        }
+                    ]
+                },
+                {
+                    "name": "Precious Metals",
+                    "key": 78,
+                    "children": [
+                        {
+                            "name": "Jade",
+                            "key": 859
+                        },
+                        {
+                            "name": "Semiprecious Gem Stones",
+                            "key": 76
+                        }
+                    ]
+                },
+                {
+                    "name": "Pulp & Paper",
+                    "key": 126,
+                    "children": [
+                        {
+                            "name": "Paper Mills",
+                            "key": 123
+                        },
+                        {
+                            "name": "Pulp & Paper Wholesale",
+                            "key": 124
+                        }
+                    ]
+                },
+                {
+                    "name": "Scrap Metal",
+                    "key": 1430,
+                    "children": []
+                },
+                {
+                    "name": "Shipbuilding",
+                    "key": 171,
+                    "children": [
+                        {
+                            "name": "Ship Parts",
+                            "key": 169
+                        },
+                        {
+                            "name": "Ship Repairing",
+                            "key": 170
+                        }
+                    ]
+                },
+                {
+                    "name": "Specialty Chemicals",
+                    "key": 70,
+                    "children": [
+                        {
+                            "name": "Adhesive",
+                            "key": 63
+                        },
+                        {
+                            "name": "Advanced Polymer",
+                            "key": 64
+                        },
+                        {
+                            "name": "Cellular Fiber",
+                            "key": 65
+                        },
+                        {
+                            "name": "Industrial Biotechnology Chemicals",
+                            "key": 68
+                        },
+                        {
+                            "name": "Specialty Chemicals Wholesale",
+                            "key": 69
+                        }
+                    ]
+                },
+                {
+                    "name": "Specialty Mining",
+                    "key": 108,
+                    "children": [
+                        {
+                            "name": "Copper Ore Mining",
+                            "tooltip": "(Copper Refining)",
+                            "key": 101
+                        },
+                        {
+                            "name": "Lead Ore Mining",
+                            "key": 102
+                        },
+                        {
+                            "name": "Nonferrous Metal",
+                            "key": 105
+                        },
+                        {
+                            "name": "Specialty Metal Wholesale",
+                            "key": 106
+                        }
+                    ]
+                },
+                {
+                    "name": "Steel",
+                    "key": 93,
+                    "children": [
+                        {
+                            "name": "Coke Coal Mining",
+                            "key": 87
+                        },
+                        {
+                            "name": "Foundries",
+                            "tooltip": "(Steel Mills;Metal Foundries;Iron Foundries;)",
+                            "key": 89
+                        },
+                        {
+                            "name": "Iron Ore Mining",
+                            "key": 88
+                        }
+                    ]
+                },
+                {
+                    "name": "Tires and Rubber Products",
+                    "key": 313,
+                    "children": [
+                        {
+                            "name": "Industrial Rubber",
+                            "key": 308
+                        },
+                        {
+                            "name": "Natural Rubber",
+                            "key": 309
+                        },
+                        {
+                            "name": "Rubber Product Wholesale",
+                            "tooltip": "(Tires Wholesale)",
+                            "key": 312
+                        },
+                        {
+                            "name": "Tire Manufacturing",
+                            "tooltip": "(Tyre Manufacturing)",
+                            "key": 310
+                        },
+                        {
+                            "name": "Tire Retreading",
+                            "key": 311
+                        }
+                    ]
+                },
+                {
+                    "name": "Trading",
+                    "tooltip": "(General Trading;)",
+                    "key": 204,
+                    "children": [
+                        {
+                            "name": "Import / Export",
+                            "key": 1316
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Logistics",
+            "key": 1504,
+            "children": [
+                {
+                    "name": "Airlines",
+                    "tooltip": "(Aviation Companies)",
+                    "key": 271,
+                    "children": [
+                        {
+                            "name": "Air Taxi",
+                            "tooltip": "(Charter Flight)",
+                            "key": 267
+                        },
+                        {
+                            "name": "International Airlines",
+                            "key": 1486
+                        },
+                        {
+                            "name": "Specialized Aviation",
+                            "key": 270
+                        }
+                    ]
+                },
+                {
+                    "name": "Airport Services",
+                    "key": 288,
+                    "children": [
+                        {
+                            "name": "Airline Catering",
+                            "key": 284
+                        },
+                        {
+                            "name": "Airport Operators",
+                            "key": 286
+                        }
+                    ]
+                },
+                {
+                    "name": "Freight & Logistics",
+                    "key": 266,
+                    "children": [
+                        {
+                            "name": "Air Logistics",
+                            "tooltip": "(International Movers & Packers;International Courier;Air Freight)",
+                            "key": 257
+                        },
+                        {
+                            "name": "Freight Forwarder",
+                            "tooltip": "(Freight Forwarding Agencies)",
+                            "key": 255
+                        },
+                        {
+                            "name": "Ground Logistics",
+                            "key": 254
+                        },
+                        {
+                            "name": "Integrated Logistics Operators",
+                            "tooltip": "(Shipping Business)",
+                            "key": 256
+                        },
+                        {
+                            "name": "Last Mile Delivery",
+                            "tooltip": "(Hyperlocal Delivery)",
+                            "key": 1595
+                        },
+                        {
+                            "name": "Marine Logistics",
+                            "tooltip": "(Marine Freight;Deep Sea Freight;Inland Water Freight)",
+                            "key": 261
+                        },
+                        {
+                            "name": "Moving Companies",
+                            "tooltip": "(Packers & Movers)",
+                            "key": 1555
+                        },
+                        {
+                            "name": "Truck Rental",
+                            "key": 264
+                        },
+                        {
+                            "name": "Trucking",
+                            "tooltip": "(Movers & Packers; Dispatching)",
+                            "key": 262
+                        },
+                        {
+                            "name": "Warehousing",
+                            "tooltip": "(Cold Storage)",
+                            "key": 265
+                        }
+                    ]
+                },
+                {
+                    "name": "Highways and Rail Operators",
+                    "key": 283,
+                    "children": [
+                        {
+                            "name": "Highway Operators",
+                            "key": 280
+                        },
+                        {
+                            "name": "Parking Lot Operators",
+                            "key": 281
+                        }
+                    ]
+                },
+                {
+                    "name": "Marine Port Services",
+                    "key": 292,
+                    "children": [
+                        {
+                            "name": "Marine Cargo Handling",
+                            "tooltip": "(Stevedoring;)",
+                            "key": 289
+                        },
+                        {
+                            "name": "Port Operators",
+                            "key": 290
+                        }
+                    ]
+                },
+                {
+                    "name": "Transportation",
+                    "tooltip": "(Passenger Transportation; Transport)",
+                    "key": 279,
+                    "children": [
+                        {
+                            "name": "Charter Bus",
+                            "key": 272
+                        },
+                        {
+                            "name": "Commuter Ferry",
+                            "key": 273
+                        },
+                        {
+                            "name": "Marine Passenger Transport",
+                            "key": 275
+                        },
+                        {
+                            "name": "Taxi",
+                            "tooltip": "(Cab; Limo Service; Limousine)",
+                            "key": 278
+                        },
+                        {
+                            "name": "Valet Parking",
+                            "key": 1590
+                        },
+                        {
+                            "name": "Vehicle Rental",
+                            "tooltip": "(Car Rental;Bike Rental)",
+                            "key": 276
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Media",
+            "key": 1507,
+            "children": [
+                {
+                    "name": "Advertising and Marketing",
+                    "tooltip": "(Advertising;Marketing;)",
+                    "key": 446,
+                    "children": [
+                        {
+                            "name": "Advertising Agencies",
+                            "tooltip": "(Ad Agencies; Marketing Agencies; Media Agencies;)",
+                            "key": 434
+                        },
+                        {
+                            "name": "Branding and Design",
+                            "key": 435
+                        },
+                        {
+                            "name": "Digital Marketing",
+                            "key": 436
+                        },
+                        {
+                            "name": "Event Management",
+                            "tooltip": "(Event)",
+                            "key": 444
+                        },
+                        {
+                            "name": "Guerrilla Marketing",
+                            "key": 438
+                        },
+                        {
+                            "name": "Market Research",
+                            "key": 439
+                        },
+                        {
+                            "name": "Marketing Consulting",
+                            "key": 440
+                        },
+                        {
+                            "name": "Media Buying Agencies",
+                            "key": 441
+                        },
+                        {
+                            "name": "Outdoor Advertising",
+                            "key": 442
+                        },
+                        {
+                            "name": "PR Agencies",
+                            "key": 443
+                        },
+                        {
+                            "name": "Sales Agencies",
+                            "key": 437
+                        },
+                        {
+                            "name": "Sign Makers",
+                            "tooltip": "(Signage Businesses)",
+                            "key": 445
+                        }
+                    ]
+                },
+                {
+                    "name": "Broadcasting",
+                    "key": 450,
+                    "children": [
+                        {
+                            "name": "Cable Service",
+                            "key": 447
+                        },
+                        {
+                            "name": "Radio Stations",
+                            "key": 448
+                        },
+                        {
+                            "name": "TV Stations",
+                            "tooltip": "(TV Channels)",
+                            "key": 449
+                        }
+                    ]
+                },
+                {
+                    "name": "Entertainment Production",
+                    "key": 457,
+                    "children": [
+                        {
+                            "name": "Concert Production",
+                            "tooltip": "(Plays Production)",
+                            "key": 456
+                        },
+                        {
+                            "name": "Copyright Management",
+                            "key": 452
+                        },
+                        {
+                            "name": "Entertainment Technical Services",
+                            "key": 453
+                        },
+                        {
+                            "name": "Film Production",
+                            "tooltip": "(Motion Pictures;Film Production;Movie Production; Film)",
+                            "key": 454
+                        },
+                        {
+                            "name": "Music Production",
+                            "key": 455
+                        },
+                        {
+                            "name": "Photography",
+                            "key": 1436
+                        },
+                        {
+                            "name": "Sports Franchises",
+                            "tooltip": "(Football Franchises; Cricket Franchises; Basketball Franchises; Baseball Franchises;)",
+                            "key": 1449
+                        },
+                        {
+                            "name": "TV Production",
+                            "key": 451
+                        }
+                    ]
+                },
+                {
+                    "name": "Printing",
+                    "key": 214,
+                    "children": [
+                        {
+                            "name": "Book Printing",
+                            "key": 211
+                        },
+                        {
+                            "name": "Photocopying",
+                            "key": 1484
+                        },
+                        {
+                            "name": "Screen Printing",
+                            "key": 1633
+                        },
+                        {
+                            "name": "Typesetting",
+                            "key": 213
+                        }
+                    ]
+                },
+                {
+                    "name": "Professional Information",
+                    "key": 246,
+                    "children": [
+                        {
+                            "name": "Business Publishing",
+                            "key": 245
+                        },
+                        {
+                            "name": "Financial Information",
+                            "key": 240
+                        },
+                        {
+                            "name": "Legal Information",
+                            "key": 242
+                        },
+                        {
+                            "name": "News Agencies",
+                            "key": 243
+                        },
+                        {
+                            "name": "Research Journals",
+                            "key": 241
+                        },
+                        {
+                            "name": "Risk & Compliance",
+                            "key": 238
+                        }
+                    ]
+                },
+                {
+                    "name": "Publishing",
+                    "key": 464,
+                    "children": [
+                        {
+                            "name": "Book Publishing",
+                            "key": 459
+                        },
+                        {
+                            "name": "Digital Publishing",
+                            "key": 460
+                        },
+                        {
+                            "name": "Directory Publishing",
+                            "key": 461
+                        },
+                        {
+                            "name": "Magazine Publishing",
+                            "key": 462
+                        },
+                        {
+                            "name": "Newspaper Publishing",
+                            "key": 463
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Retail Shops",
+            "tooltip": "(Shops; Commercial Shops; Turnkey Business)",
+            "key": 1502,
+            "children": [
+                {
+                    "name": "Apparel Stores",
+                    "tooltip": "(Clothing Stores)",
+                    "key": 521,
+                    "children": [
+                        {
+                            "name": "Baby Stores",
+                            "tooltip": "(Children Clothing Stores;Kids Wear Shops;Babycare Stores)",
+                            "key": 512
+                        },
+                        {
+                            "name": "Bag Retailers",
+                            "key": 514
+                        },
+                        {
+                            "name": "Footwear Stores",
+                            "tooltip": "(Shoe Stores)",
+                            "key": 513
+                        },
+                        {
+                            "name": "Jewelry Stores",
+                            "tooltip": "(Jewellery Shops)",
+                            "key": 515
+                        },
+                        {
+                            "name": "Luxury Apparel Retailers",
+                            "key": 516
+                        },
+                        {
+                            "name": "Men's Apparel Stores",
+                            "tooltip": "(Men's Clothing Stores)",
+                            "key": 517
+                        },
+                        {
+                            "name": "Sportswear Shops",
+                            "key": 518
+                        },
+                        {
+                            "name": "Teen Fashion Retailers",
+                            "key": 519
+                        },
+                        {
+                            "name": "Watch Stores",
+                            "tooltip": "(Swiss Watch Stores)",
+                            "key": 1597
+                        },
+                        {
+                            "name": "Women's Apparel Stores",
+                            "tooltip": "(Women's Clothing Stores)",
+                            "key": 520
+                        }
+                    ]
+                },
+                {
+                    "name": "Auto Dealers",
+                    "key": 481,
+                    "children": [
+                        {
+                            "name": "Auto Accessories Shops",
+                            "key": 1482
+                        },
+                        {
+                            "name": "Auto Repair and Service",
+                            "tooltip": "(Auto Garages;Car Repair;Bike Repair; Starter & Alternator Repair; Auto Fabrication;)",
+                            "key": 475
+                        },
+                        {
+                            "name": "Car Dealers",
+                            "tooltip": "(Automotive Dealers;Luxury Car Dealers)",
+                            "key": 478
+                        },
+                        {
+                            "name": "Car Washes",
+                            "tooltip": "(Car Wash Franchises)",
+                            "key": 1442
+                        },
+                        {
+                            "name": "Motorcycle Dealers",
+                            "tooltip": "(Two Wheeler Dealers; 2 Wheeler Dealers;Bike Shops)",
+                            "key": 477
+                        },
+                        {
+                            "name": "Tire Dealers",
+                            "key": 479
+                        },
+                        {
+                            "name": "Used Car Dealers",
+                            "key": 480
+                        }
+                    ]
+                },
+                {
+                    "name": "Computer Shops",
+                    "key": 525,
+                    "children": [
+                        {
+                            "name": "Electronics Stores",
+                            "tooltip": "(Home Appliance Shops;Consumer Electronics Retailers)",
+                            "key": 523
+                        },
+                        {
+                            "name": "Household Electronics Repair",
+                            "tooltip": "(Mobile Repair;Computer Repair;Cell Phone Repair;)",
+                            "key": 600
+                        },
+                        {
+                            "name": "IT Retail",
+                            "key": 522
+                        },
+                        {
+                            "name": "Mobile Shops",
+                            "tooltip": "(Mobile Phone Retailers)",
+                            "key": 524
+                        }
+                    ]
+                },
+                {
+                    "name": "Food Shops",
+                    "key": 615,
+                    "children": [
+                        {
+                            "name": "Food Markets",
+                            "key": 610
+                        },
+                        {
+                            "name": "Food Wholesale",
+                            "key": 611
+                        },
+                        {
+                            "name": "Grocery Shops",
+                            "tooltip": "(Discount Stores;Convenience Stores;General Merchandise Store;Department Stores; Minimarts)",
+                            "key": 1310
+                        },
+                        {
+                            "name": "Liquor Stores",
+                            "tooltip": "(Wine Stores;Beer Stores)",
+                            "key": 609
+                        },
+                        {
+                            "name": "Meat Shops",
+                            "tooltip": "(Butcher Shops;Fishmongers)",
+                            "key": 1463
+                        },
+                        {
+                            "name": "Supermarkets",
+                            "tooltip": "(Hypermarkets)",
+                            "key": 1461
+                        },
+                        {
+                            "name": "Vending Machines",
+                            "key": 614
+                        }
+                    ]
+                },
+                {
+                    "name": "Home Furnishing Shops",
+                    "key": 495,
+                    "children": [
+                        {
+                            "name": "Art Galleries",
+                            "tooltip": "(Handicraft Shops;Antique Shops;Painting Shops)",
+                            "key": 490
+                        },
+                        {
+                            "name": "Bathroom Fitting Shops",
+                            "key": 485
+                        },
+                        {
+                            "name": "Electrical Supplies Stores",
+                            "key": 1640
+                        },
+                        {
+                            "name": "Furniture Stores",
+                            "tooltip": "(Furniture Shops;Furniture Retailers)",
+                            "key": 492
+                        },
+                        {
+                            "name": "Garden Nurseries",
+                            "tooltip": "(Gardens)",
+                            "key": 487
+                        },
+                        {
+                            "name": "Hardware Stores",
+                            "tooltip": "(DIY Stores)",
+                            "key": 1475
+                        },
+                        {
+                            "name": "Luxury Furnishing Retailers",
+                            "key": 493
+                        },
+                        {
+                            "name": "Paint Stores",
+                            "key": 1642
+                        },
+                        {
+                            "name": "Soft Furnishing Stores",
+                            "tooltip": "(Curtains & Bedding Shops; Home Decor Shops; Wallpaper Shops; Carpet Stores; Pillow & Cushion Shops;)",
+                            "key": 494
+                        }
+                    ]
+                },
+                {
+                    "name": "Specialty Retailers",
+                    "key": 496,
+                    "children": [
+                        {
+                            "name": "Beauty Product Shops",
+                            "tooltip": "(Beauty Supply Retailers)",
+                            "key": 497
+                        },
+                        {
+                            "name": "Bicycle Shops",
+                            "key": 1474
+                        },
+                        {
+                            "name": "Book Shops",
+                            "key": 498
+                        },
+                        {
+                            "name": "CD Shops",
+                            "key": 1479
+                        },
+                        {
+                            "name": "Courier Shops",
+                            "tooltip": "(Postal Shops;Mail Shops)",
+                            "key": 1485
+                        },
+                        {
+                            "name": "Craft Stores",
+                            "tooltip": "(Hobby Stores;Art Stores)",
+                            "key": 502
+                        },
+                        {
+                            "name": "Florists",
+                            "tooltip": "(Flower Shops;)",
+                            "key": 499
+                        },
+                        {
+                            "name": "Gifting",
+                            "key": 500
+                        },
+                        {
+                            "name": "Health Food Stores",
+                            "key": 501
+                        },
+                        {
+                            "name": "Marine Shops",
+                            "tooltip": "(Marine Repair & Services;Marine Equipment Parts)",
+                            "key": 1424
+                        },
+                        {
+                            "name": "Movie & Book Rental",
+                            "key": 1554
+                        },
+                        {
+                            "name": "Musical Instrument Retailers",
+                            "key": 504
+                        },
+                        {
+                            "name": "Newsagents",
+                            "key": 1563
+                        },
+                        {
+                            "name": "Optical Stores",
+                            "key": 506
+                        },
+                        {
+                            "name": "Pawn Shops",
+                            "key": 1636
+                        },
+                        {
+                            "name": "Pet Shops",
+                            "tooltip": "(Pet Care;Catteries;Kennels)",
+                            "key": 507
+                        },
+                        {
+                            "name": "Sports Goods Stores",
+                            "key": 508
+                        },
+                        {
+                            "name": "Stationery Stores",
+                            "key": 505
+                        },
+                        {
+                            "name": "Tobacco Shops",
+                            "tooltip": "(Tobacconists;Cigarette Shops;Smoke Shops;Tobacco Stores;Vape shops)",
+                            "key": 1477
+                        },
+                        {
+                            "name": "Toy Shops",
+                            "key": 509
+                        },
+                        {
+                            "name": "Used Merchandise Stores",
+                            "key": 510
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Technology",
+            "tooltip": "(Tech; Hi-Tech;)",
+            "key": 1412,
+            "children": [
+                {
+                    "name": "Computer Hardware",
+                    "key": 779,
+                    "children": [
+                        {
+                            "name": "Computer Hardware Component Assembly",
+                            "key": 770
+                        },
+                        {
+                            "name": "Computer Peripherals",
+                            "key": 771
+                        },
+                        {
+                            "name": "Home Printers",
+                            "key": 772
+                        },
+                        {
+                            "name": "Laptops and Desktops",
+                            "tooltip": "(Computers)",
+                            "key": 774
+                        },
+                        {
+                            "name": "Servers & Systems",
+                            "key": 776
+                        },
+                        {
+                            "name": "Storage Devices",
+                            "key": 777
+                        },
+                        {
+                            "name": "Tablet Computers",
+                            "tooltip": "(Netbook Computers)",
+                            "key": 778
+                        }
+                    ]
+                },
+                {
+                    "name": "Electronic Equipment",
+                    "key": 769,
+                    "children": [
+                        {
+                            "name": "Biometric Products",
+                            "key": 766
+                        },
+                        {
+                            "name": "Display Screens",
+                            "key": 767
+                        },
+                        {
+                            "name": "Drones",
+                            "key": 1598
+                        },
+                        {
+                            "name": "Electronics Manufacturing",
+                            "tooltip": "(Electronic Component;)",
+                            "key": 768
+                        },
+                        {
+                            "name": "Robot Manufacturing",
+                            "key": 765
+                        }
+                    ]
+                },
+                {
+                    "name": "Household Electronics",
+                    "tooltip": "(Appliances, Tools and Housewares)",
+                    "key": 790,
+                    "children": [
+                        {
+                            "name": "Consumer Electronics",
+                            "tooltip": "(Household Goods)",
+                            "key": 786
+                        },
+                        {
+                            "name": "Home Appliances",
+                            "key": 373
+                        },
+                        {
+                            "name": "Home Audio",
+                            "key": 787
+                        },
+                        {
+                            "name": "Kitchen Appliances",
+                            "tooltip": "(Coffee Machines)",
+                            "key": 374
+                        },
+                        {
+                            "name": "Luxury Appliances",
+                            "key": 375
+                        },
+                        {
+                            "name": "Photographic Equipment",
+                            "key": 788
+                        },
+                        {
+                            "name": "TV Manufacturing",
+                            "key": 789
+                        }
+                    ]
+                },
+                {
+                    "name": "Internet",
+                    "tooltip": "(Online;)",
+                    "key": 1312,
+                    "children": [
+                        {
+                            "name": "Crypto",
+                            "tooltip": "(Blockchain;)",
+                            "key": 1583
+                        },
+                        {
+                            "name": "Ecommerce Websites",
+                            "key": 806
+                        },
+                        {
+                            "name": "Edutech",
+                            "key": 239
+                        },
+                        {
+                            "name": "FinTech",
+                            "tooltip": "(Financial Websites)",
+                            "key": 650
+                        },
+                        {
+                            "name": "Gaming Websites",
+                            "tooltip": "(Mobile Games; Esports)",
+                            "key": 807
+                        },
+                        {
+                            "name": "Healthcare Portal",
+                            "key": 1584
+                        },
+                        {
+                            "name": "Job Portals",
+                            "tooltip": "(Employment Portals)",
+                            "key": 217
+                        },
+                        {
+                            "name": "Mobile Apps",
+                            "tooltip": "(Phone Apps;)",
+                            "key": 799
+                        },
+                        {
+                            "name": "Online Marketplace",
+                            "key": 1494
+                        },
+                        {
+                            "name": "Search Engine Websites",
+                            "key": 809
+                        },
+                        {
+                            "name": "Social Network Websites",
+                            "key": 810
+                        },
+                        {
+                            "name": "Travel Portals",
+                            "key": 1586
+                        }
+                    ]
+                },
+                {
+                    "name": "Networking Equipment",
+                    "key": 758,
+                    "children": [
+                        {
+                            "name": "Broadcast Equipment",
+                            "key": 751
+                        },
+                        {
+                            "name": "Conferencing Equipment",
+                            "key": 752
+                        },
+                        {
+                            "name": "Fiber Optic Cables",
+                            "key": 753
+                        },
+                        {
+                            "name": "Network Equipment",
+                            "key": 754
+                        },
+                        {
+                            "name": "Satellite Equipment",
+                            "key": 755
+                        },
+                        {
+                            "name": "Surveillance Devices",
+                            "tooltip": "(Security Devices)",
+                            "key": 756
+                        }
+                    ]
+                },
+                {
+                    "name": "Office Equipments",
+                    "key": 764,
+                    "children": [
+                        {
+                            "name": "Equipment & Supplies Rental",
+                            "key": 231
+                        },
+                        {
+                            "name": "Office Equipment",
+                            "key": 761
+                        },
+                        {
+                            "name": "Office Supplies Wholesale",
+                            "tooltip": "(Office Equipment Wholesale)",
+                            "key": 760
+                        },
+                        {
+                            "name": "POS Terminal",
+                            "tooltip": "(Point of Sale Terminal)",
+                            "key": 762
+                        },
+                        {
+                            "name": "Printers",
+                            "tooltip": "(Photocopiers;Scanners)",
+                            "key": 759
+                        },
+                        {
+                            "name": "Scientific Equipment",
+                            "tooltip": "(Laboratory Equipment;Precision Equipment;Instrumentation Equipment)",
+                            "key": 763
+                        }
+                    ]
+                },
+                {
+                    "name": "Phones and Handheld Devices",
+                    "key": 785,
+                    "children": [
+                        {
+                            "name": "GPS Devices",
+                            "key": 784
+                        },
+                        {
+                            "name": "Mobile Device Component Assembly",
+                            "key": 781
+                        },
+                        {
+                            "name": "Mobile Phones",
+                            "tooltip": "(Smartphones)",
+                            "key": 783
+                        },
+                        {
+                            "name": "Personal Music Players",
+                            "key": 782
+                        },
+                        {
+                            "name": "Phone Accessories",
+                            "key": 1559
+                        }
+                    ]
+                },
+                {
+                    "name": "Semiconductor Equipment",
+                    "key": 750,
+                    "children": [
+                        {
+                            "name": "Semiconductor Equipment Wholesalers",
+                            "key": 747
+                        },
+                        {
+                            "name": "Semiconductor Machines",
+                            "key": 748
+                        },
+                        {
+                            "name": "Semiconductor Testing",
+                            "key": 749
+                        }
+                    ]
+                },
+                {
+                    "name": "Semiconductors",
+                    "key": 746,
+                    "children": [
+                        {
+                            "name": "IC Fabrication",
+                            "key": 741
+                        },
+                        {
+                            "name": "RFID Systems",
+                            "key": 744
+                        },
+                        {
+                            "name": "Semiconductor Wholesale",
+                            "key": 745
+                        }
+                    ]
+                },
+                {
+                    "name": "Software Companies",
+                    "key": 804,
+                    "children": [
+                        {
+                            "name": "Analytics Software",
+                            "tooltip": "(Business Intelligence Software)",
+                            "key": 1568
+                        },
+                        {
+                            "name": "Application Software",
+                            "key": 797
+                        },
+                        {
+                            "name": "Cloud Software",
+                            "key": 791
+                        },
+                        {
+                            "name": "Content Management Software",
+                            "key": 805
+                        },
+                        {
+                            "name": "Database Software",
+                            "tooltip": "(Server Software)",
+                            "key": 802
+                        },
+                        {
+                            "name": "Enterprise Software",
+                            "tooltip": "(ERP)",
+                            "key": 798
+                        },
+                        {
+                            "name": "Geospatial Technology",
+                            "tooltip": "(GIS Solutions)",
+                            "key": 1492
+                        },
+                        {
+                            "name": "Internet of Things",
+                            "tooltip": "(IoT;Home Automation)",
+                            "key": 1493
+                        },
+                        {
+                            "name": "Medical Software",
+                            "key": 706
+                        },
+                        {
+                            "name": "Programming Software",
+                            "key": 801
+                        },
+                        {
+                            "name": "System Software",
+                            "tooltip": "(Mobile System Software)",
+                            "key": 803
+                        },
+                        {
+                            "name": "Virtual & Augmented Reality",
+                            "key": 1579
+                        },
+                        {
+                            "name": "Web Hosting",
+                            "tooltip": "(Domain Hosting)",
+                            "key": 1453
+                        }
+                    ]
+                },
+                {
+                    "name": "Telecommunications",
+                    "tooltip": "(Integrated Telecom; Telecom;)",
+                    "key": 822,
+                    "children": [
+                        {
+                            "name": "ISPs",
+                            "tooltip": "(Internet Service Providers;Wireless Internet Providers;)",
+                            "key": 812
+                        },
+                        {
+                            "name": "Satellite Broadband",
+                            "key": 819
+                        },
+                        {
+                            "name": "Telecom Carriers",
+                            "tooltip": "(Telecom Networks;)",
+                            "key": 821
+                        },
+                        {
+                            "name": "Telecom Infrastructure",
+                            "tooltip": "(Telecom Towers)",
+                            "key": 813
+                        },
+                        {
+                            "name": "Telecom Resellers",
+                            "key": 814
+                        },
+                        {
+                            "name": "VOIP Services",
+                            "key": 815
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Textiles",
+            "key": 1516,
+            "children": [
+                {
+                    "name": "Apparel and Accessories",
+                    "key": 344,
+                    "children": [
+                        {
+                            "name": "Accessories",
+                            "key": 324
+                        },
+                        {
+                            "name": "Apparel Wholesale",
+                            "key": 326
+                        },
+                        {
+                            "name": "Bags Manufacturing",
+                            "tooltip": "(Handbag Manufacturing; Luggage Bag Manufacturing; Backpack Manufacturing;)",
+                            "key": 330
+                        },
+                        {
+                            "name": "Children Clothing",
+                            "tooltip": "(Baby Clothing)",
+                            "key": 327
+                        },
+                        {
+                            "name": "Ethical Clothing",
+                            "tooltip": "(Fair Trade Clothing)",
+                            "key": 328
+                        },
+                        {
+                            "name": "Fashion Eyewear",
+                            "key": 329
+                        },
+                        {
+                            "name": "Hosiery",
+                            "key": 331
+                        },
+                        {
+                            "name": "Industrial Clothing",
+                            "tooltip": "(Industrial Gloves)",
+                            "key": 332
+                        },
+                        {
+                            "name": "Jeans Manufacturing",
+                            "key": 333
+                        },
+                        {
+                            "name": "Jewellery",
+                            "key": 334
+                        },
+                        {
+                            "name": "Knitwear",
+                            "key": 335
+                        },
+                        {
+                            "name": "Laundry Business",
+                            "tooltip": "(Dry Cleaners; Laundromats; Coin Laundry Business; Dry Cleaning Business;)",
+                            "key": 1261
+                        },
+                        {
+                            "name": "Lingerie",
+                            "key": 336
+                        },
+                        {
+                            "name": "Luxury Accessories",
+                            "key": 337
+                        },
+                        {
+                            "name": "Luxury Clothing",
+                            "key": 338
+                        },
+                        {
+                            "name": "Men's Clothing",
+                            "key": 339
+                        },
+                        {
+                            "name": "Pet Clothing",
+                            "key": 325
+                        },
+                        {
+                            "name": "Sportswear",
+                            "key": 340
+                        },
+                        {
+                            "name": "Tailoring",
+                            "tooltip": "(Haberdashery; Embroidery)",
+                            "key": 1473
+                        },
+                        {
+                            "name": "Theatrical Costumes",
+                            "key": 341
+                        },
+                        {
+                            "name": "Watches",
+                            "key": 342
+                        },
+                        {
+                            "name": "Women's Clothing",
+                            "key": 343
+                        }
+                    ]
+                },
+                {
+                    "name": "Footwear",
+                    "tooltip": "(Shoes; Slippers; Socks; Boots;)",
+                    "key": 352,
+                    "children": [
+                        {
+                            "name": "Children Footwear",
+                            "tooltip": "(Baby Footwear)",
+                            "key": 345
+                        },
+                        {
+                            "name": "Footwear Wholesale",
+                            "key": 346
+                        },
+                        {
+                            "name": "Functional Footwear",
+                            "key": 347
+                        },
+                        {
+                            "name": "Luxury Footwear",
+                            "key": 348
+                        },
+                        {
+                            "name": "Men's Footwear",
+                            "key": 349
+                        },
+                        {
+                            "name": "Sports Footwear",
+                            "key": 350
+                        },
+                        {
+                            "name": "Women's Footwear",
+                            "key": 351
+                        }
+                    ]
+                },
+                {
+                    "name": "Textile",
+                    "key": 323,
+                    "children": [
+                        {
+                            "name": "Fabric Dyeing",
+                            "key": 315
+                        },
+                        {
+                            "name": "Leather Goods",
+                            "key": 317
+                        },
+                        {
+                            "name": "Natural Fabrics",
+                            "key": 318
+                        },
+                        {
+                            "name": "Organic Fabric",
+                            "key": 319
+                        },
+                        {
+                            "name": "Synthetic Fabrics",
+                            "key": 320
+                        },
+                        {
+                            "name": "Textiles Wholesale",
+                            "key": 321
+                        },
+                        {
+                            "name": "Yarn Goods",
+                            "key": 322
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Travel & Leisure",
+            "key": 1509,
+            "children": [
+                {
+                    "name": "Casinos and Gaming",
+                    "key": 419,
+                    "children": [
+                        {
+                            "name": "Casinos",
+                            "key": 414
+                        },
+                        {
+                            "name": "Gaming Machine Operators",
+                            "key": 416
+                        },
+                        {
+                            "name": "Lottery Operators",
+                            "key": 418
+                        },
+                        {
+                            "name": "Race Tracks",
+                            "key": 417
+                        }
+                    ]
+                },
+                {
+                    "name": "Hotels and Resorts",
+                    "key": 406,
+                    "children": [
+                        {
+                            "name": "Banquet Halls",
+                            "tooltip": "(Marriage Halls;Kalyana Mandapam;Convention Centers;Wedding Venues;)",
+                            "key": 407
+                        },
+                        {
+                            "name": "Bed & Breakfasts",
+                            "tooltip": "(Inns;Cottages;B&Bs;Country Inns;Boutique Hotels;)",
+                            "key": 1441
+                        },
+                        {
+                            "name": "Campgrounds",
+                            "tooltip": "(RV Parks;Caravan Parks)",
+                            "key": 1440
+                        },
+                        {
+                            "name": "Campsite Operators",
+                            "key": 400
+                        },
+                        {
+                            "name": "Cruise Lines",
+                            "tooltip": "(Cruise Companies;)",
+                            "key": 401
+                        },
+                        {
+                            "name": "Guest Houses",
+                            "key": 1445
+                        },
+                        {
+                            "name": "Hotel Management",
+                            "key": 1549
+                        },
+                        {
+                            "name": "Hotels",
+                            "tooltip": "(Motels;Lodges;3 Star Hotels;4 Star Hotels;5 Star Hotels)",
+                            "key": 402
+                        },
+                        {
+                            "name": "Luxury Hotels",
+                            "key": 403
+                        },
+                        {
+                            "name": "Resorts",
+                            "key": 404
+                        },
+                        {
+                            "name": "Serviced Apartments",
+                            "tooltip": "(Self-Catering Accommodations; PGs; Hostels; Serviced Accommodations; Student Hostels;)",
+                            "key": 405
+                        },
+                        {
+                            "name": "Timeshares",
+                            "tooltip": "(Vacation Clubs)",
+                            "key": 1565
+                        },
+                        {
+                            "name": "Wellness Retreats",
+                            "tooltip": "(Yoga Retreats; Nature Cure Retreats; Rehabilitation Retreats; Health Retreats; Spa Retreats)",
+                            "key": 1645
+                        }
+                    ]
+                },
+                {
+                    "name": "Leisure and Recreation",
+                    "tooltip": "(Leisure; Recreation)",
+                    "key": 433,
+                    "children": [
+                        {
+                            "name": "Adult Entertainment",
+                            "key": 458
+                        },
+                        {
+                            "name": "Adventure Sports",
+                            "key": 420
+                        },
+                        {
+                            "name": "Amusement Parks",
+                            "key": 421
+                        },
+                        {
+                            "name": "Bowling Alleys",
+                            "key": 1466
+                        },
+                        {
+                            "name": "Entertainment Centers",
+                            "key": 1465
+                        },
+                        {
+                            "name": "Motorsports",
+                            "key": 1626
+                        },
+                        {
+                            "name": "Movie Theaters",
+                            "tooltip": "(Cinema Halls;Amphitheaters;)",
+                            "key": 427
+                        },
+                        {
+                            "name": "Museums",
+                            "key": 428
+                        },
+                        {
+                            "name": "Pet Care",
+                            "tooltip": "(Catteries;Kennels)",
+                            "key": 1426
+                        },
+                        {
+                            "name": "Snooker Clubs",
+                            "key": 1467
+                        },
+                        {
+                            "name": "Spiritual & Psychic Services",
+                            "tooltip": "(Astrology;Tarot Card\r\n)",
+                            "key": 1488
+                        },
+                        {
+                            "name": "Tour Operators",
+                            "tooltip": "(Tourism Business)",
+                            "key": 423
+                        },
+                        {
+                            "name": "Travel Agencies",
+                            "key": 432
+                        },
+                        {
+                            "name": "Video Games Stores",
+                            "key": 1480
+                        },
+                        {
+                            "name": "Zoos",
+                            "key": 1547
+                        }
+                    ]
+                },
+                {
+                    "name": "Recreational Products",
+                    "key": 398,
+                    "children": [
+                        {
+                            "name": "Dolls, Toys & Games",
+                            "key": 391
+                        },
+                        {
+                            "name": "Musical Instruments",
+                            "key": 395
+                        },
+                        {
+                            "name": "Sport Goods",
+                            "key": 397
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

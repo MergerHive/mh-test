@@ -1,0 +1,71 @@
+{
+    "designations": [
+        {
+            "value": "ownerdirector",
+            "label": "Business Owner / Director"
+        },
+        {
+            "value": "memberManagement",
+            "label": "Management Member"
+        },
+        {
+            "value": "advisorBroker",
+            "label": "Advisor / Business Broker"
+        }
+    ],
+    "legalEntityTypes": [
+        {
+            "value": "sole",
+            "label": "Sole Proprietorship/Sole Trader"
+        },
+        {
+            "value": "gp",
+            "label": "General Partnership"
+        },
+        {
+            "value": "llp",
+            "label": "Limited Liability Partnership (LLP)"
+        },
+        {
+            "value": "llc",
+            "label": "Limited Liability Company (LLC)"
+        },
+        {
+            "value": "prlc",
+            "label": "Private Limited Company"
+        },
+        {
+            "value": "plc",
+            "label": "Public Limited Company"
+        },
+        {
+            "value": "sCorporation",
+            "label": "S Corporation"
+        },
+        {
+            "value": "cCorporation",
+            "label": "C Corporation"
+        },
+        {
+            "value": "other",
+            "label": "Other"
+        }
+    ],
+    "businessProfileTypes": [
+        {
+            "id": "r1",
+            "value": "fullSale",
+            "label": "Full sale of my business"
+        },
+        {
+            "id": "r2",
+            "value": "partialSale",
+            "label": "Partial stake sale/Investment"
+        },
+        {
+            "id": "r3",
+            "value": "businessLoan",
+            "label": "Loan for business"
+        }
+    ]
+}

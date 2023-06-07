@@ -1,0 +1,24 @@
+{
+    "businessProfileTypes": [
+        {
+            "id": "r1",
+            "value": "buybusiness",
+            "label": "Acqurining / Buying a business"
+        },
+        {
+            "id": "r2",
+            "value": "investinbusiness",
+            "label": "Investing in a business"
+        },
+        {
+            "id": "r3",
+            "value": "lendingtobusiness",
+            "label": "Lending to a business"
+        },
+        {
+            "id": "r4",
+            "value": "agency",
+            "label": "Taking up a Franchise / Distributorship / Sales Agency"
+        }
+    ]
+}
